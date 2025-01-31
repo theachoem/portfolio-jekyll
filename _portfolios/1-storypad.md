@@ -11,13 +11,11 @@ ss2: assets/portfolios/storypad/setting.png
 ss3: assets/portfolios/storypad/storydetail.png
 bg-color: 0E4DA4
 start_date: 2021-03-08
-main_tag: Spooky
 tags:
 - Flutter
 - SQLite
 - GoogleDrive API
 - Firebase
-- Spooky
 figma: https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FzfVnCt9vHSUb6PaZuQdgjB%2FStoryPad-v2.0%3Fnode-id%3D2%253A401
 ---
 {% include dot.md %}
