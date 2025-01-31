@@ -23,12 +23,6 @@ figma: https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.
 {% include dot.md %}
 [StoryPad](https://play.google.com/store/apps/details?id=com.tc.writestory) is a minimalist application to write stories, notes, diary, and keep your memory forever with google drive, group, and lock. Currently has around 20k+ downloads on Play Store.
 
-I unpublished it for now. The reason for ending the service is that I make the wrong structure of the app hard to maintain. 
-
-Anyways, this isn’t the end for StoryPad. I'm working on another project called Spooky, which has a similar concept to StoryPad with Material Design 3. I hope that the lesson that I learn from StoryPad helps us build a better app for everyone, providing the same free with no-ads experience.
-
-Users are able to move their data from StoryPad to Spooky.
-
 <a class="primary-button" href="https://play.google.com/store/apps/details?id=com.tc.writestory">Download on Play Store</a>
 <a class="primary-button" href="https://m.apkpure.com/storypad-write-story-note-diary/com.tc.writestory">Apkpure</a>
 <a class="primary-button" href="https://github.com/juniorise/storypad">GitHub</a>
