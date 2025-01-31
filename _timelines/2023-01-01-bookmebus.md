@@ -9,4 +9,4 @@ start: 2023-01-01
 end: Present
 ---
 
-Begin leading a small innovative team to build a responsive, scalable & maintainable platform (BookMe+)
+I started leading a small, innovative team to build a responsive, scalable, and maintainable platform (BookMe+).
