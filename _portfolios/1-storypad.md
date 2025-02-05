@@ -5,7 +5,6 @@ permalink: /portfolios/storypad/
 categories: portfolio
 author: Thea Choem
 comments: true
-cover: https://user-images.githubusercontent.com/29684683/115711088-4f444800-a39d-11eb-8930-f2556f117037.png
 ss1: assets/portfolios/storypad/homescreen.png
 ss2: assets/portfolios/storypad/setting.png
 ss3: assets/portfolios/storypad/storydetail.png
@@ -16,7 +15,6 @@ tags:
 - SQLite
 - GoogleDrive API
 - Firebase
-figma: https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FzfVnCt9vHSUb6PaZuQdgjB%2FStoryPad-v2.0%3Fnode-id%3D2%253A401
 ---
 {% include dot.md %}
 
