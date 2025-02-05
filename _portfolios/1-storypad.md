@@ -18,8 +18,6 @@ tags:
 ---
 {% include dot.md %}
 
-# StoryPad 📝
-
 <!-- ![cover](https://repository-images.githubusercontent.com/444136870/43a054a0-50ad-47d7-a680-4a12507a77d2) -->
 
 First journal with Material 3 design! StoryPad is a minimalist design application to write stories, journals, notes, diaries, todo, etc. We offer a variety of features that you can expect for your daily usage.
