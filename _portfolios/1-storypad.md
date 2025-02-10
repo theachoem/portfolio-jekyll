@@ -2,6 +2,7 @@
 layout: post
 title: StoryPad - Write Story & Diary
 permalink: /portfolios/storypad/
+cover: https://github.com/user-attachments/assets/dedc5e14-5e6f-499f-93a7-ad6ff11f622e
 categories: portfolio
 author: Thea Choem
 comments: true
