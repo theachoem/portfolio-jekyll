@@ -5,6 +5,7 @@ permalink: /portfolios/romdoul/
 categories: portfolio
 author: Thea Choem
 comments: true
+figma: https://www.figma.com/design/djwSEPstP4ucQorpo1JgOE/Romduol
 cover:
 ss1: assets/portfolios/romdoul/home.jpg
 ss2: assets/portfolios/romdoul/detail.jpg
