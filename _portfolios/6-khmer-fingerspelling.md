@@ -29,9 +29,9 @@ Additionally, by Krousar Thmey, an NGO, there are only 5 schools of 2 provinces 
 
 > Our mentor: [Dr. Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/home)
 
-| Name | Role |
-| - | - |
-| Mr. Rotsarak Kang | Researcher |
-| Mr. Vatanak Chamreurn | Researcher |
-| Mr. Theanvitou Try | Researcher |
-| Mr. Thea Choem | Researcher |
+| Name |
+| - |
+| Mr. Rotsarak Kang |
+| Mr. Vatanak Chamreurn |
+| Mr. Theanvitou Try |
+| Mr. Thea Choem |
